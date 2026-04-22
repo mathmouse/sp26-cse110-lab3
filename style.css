@@ -12,6 +12,10 @@
 /* --- General --- */
 * { box-sizing: border-box; }
 
+html {
+  scroll-padding-top: 140px;
+}
+
 body {
   background-color: #FFEDFE;
   font-family: 'Courier Prime', monospace;
